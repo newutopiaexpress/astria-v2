@@ -1,9 +1,6 @@
 {
   "name": "headshots-ai-by-astria",
-  "author": {
-    "name": "Astria",
-    "email": "support@astria.ai"
-  },
+  "author": "Astria <support@astria.ai>",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -73,5 +70,12 @@
     "@types/react": "18.2.12",
     "@types/react-dom": "18.2.5",
     "encoding": "^0.1.13"
-  }
+  },
+  "version": "1.0.0",
+  "description": "Introducing Headshot AI, an open-source project from [Astria](https://www.astria.ai/) that generates Professional AI Headshots in minutes.",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": []
 }
